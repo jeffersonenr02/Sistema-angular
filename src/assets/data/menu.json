@@ -1,0 +1,16 @@
+[
+    {
+        "nombre": "Principal",
+        "redirect": "/main"
+    },
+
+    {
+        "nombre": "Usuarios",
+        "redirect": "/main/usuarios"
+    },
+    
+    {
+        "nombre": "Reportes",
+        "redirect": "/main/reportes"
+    }
+]
